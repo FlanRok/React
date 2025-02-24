@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Тостер",
+    "price": 1500,
+    "category": "kitchen",
+    "image": "https://img.icons8.com/?size=100&id=rO91VCvUT6zq&format=png&color=000000"
+  },
+  {
+    "id": 2,
+    "name": "Холодильник",
+    "price": 25000,
+    "category": "appliances",
+    "description": "Товар холодильник. ",
+    "image": "https://img.icons8.com/?size=100&id=SoW6g4IHMXgc&format=png&color=000000"
+  },
+  {
+    "id": 3,
+    "name": "Духовка",
+    "price": 20000,
+    "category": "appliances",
+    "description": "Товар духовка",
+    "image": "https://img.icons8.com/?size=100&id=289&format=png&color=000000"
+  },
+  {
+    "id": 4,
+    "name": "Мультиварка",
+    "price": 6500,
+    "category": "kitchen",
+    "description": "Товар мультиварка",
+    "image": "https://img.icons8.com/?size=100&id=18ffhQgFSad3&format=png&color=000000"
+  },
+  {
+    "id": 5,
+    "name": "Носочки",
+    "price": 2000,
+    "category": "clothes",
+    "description": "Носочки шрека",
+    "image": "https://img.icons8.com/?size=100&id=RjU5YO-G3rwq&format=png&color=000000"
+  }
+]
